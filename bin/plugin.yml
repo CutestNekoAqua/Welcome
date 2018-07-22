@@ -1,0 +1,5 @@
+name: Anti-Crash
+version: 6.6.6
+main: main.Main
+prefix: Crash-Fix
+author: JoValle
